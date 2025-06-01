@@ -1,7 +1,7 @@
 # 🌍 Global Relocation Decision Dashboard (Excel VBA)
 
 <p align="center">
-  <img src=""C:\Users\Beena Tiwari\Desktop\Global-Relocation-Dashboard\dashboard_preview.png"" alt="Dashboard Preview" width="900"/>
+  <img src="C:\Users\Beena Tiwari\Desktop\Global-Relocation-Dashboard\dashboard_preview.png" alt="Dashboard Preview" width="900"/>
 </p>
 
 This Excel-based dashboard helps evaluate the best country to relocate among **India**, **Australia**, **United States**, **Europe**, and **Hong Kong** — using six key indicators.
